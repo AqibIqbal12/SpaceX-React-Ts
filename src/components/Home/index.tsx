@@ -62,7 +62,7 @@ const Home = () => {
     return (
         <div className={classes.container}>
             <div className={classes.btnsWrapper}>
-                <button className={classes.btnone} onClick={() => navigate("/launches")}>Launches</button>
+                <button className={classes.btnone} onClick={() => navigate("/launches")}>Launchesss</button>
                 <button className={classes.btntwo} onClick={() => navigate("/rockets")}>Rockets</button>
             </div>
         </div>
